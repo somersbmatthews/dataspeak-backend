@@ -1,24 +1,20 @@
-# README
+## DataSpeak: Turn your data into language
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## What problem does it solve?
 
-Things you may want to cover:
+Financial data is notoriously hard to understand. This app makes it simple by converting fact and figures into easy to understand plain Enligh.
 
-* Ruby version
+User Story: 
 
-* System dependencies
+DataSpeak is an app that allows a user to see the user's data in everyday language in the form of a report. The user will also be able to choose if the report is spoken.
 
-* Configuration
+* A user will be able to register for an account
 
-* Database creation
+* A user will be able to login to the user's account
 
-* Database initialization
+* A user will be able to see any portfolio that has been saved.
 
-* How to run the test suite
+* A user will be able to see and/or listen to a written report.
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Wireframe
+![](https://github.com/somersbmatthews/dataspeak-frontend/blob/vendor/Project4wireframe.jpg)
