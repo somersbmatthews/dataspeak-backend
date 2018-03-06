@@ -17,4 +17,4 @@ DataSpeak is an app that allows a user to see the user's data in everyday langua
 * A user will be able to see and/or listen to a written report.
 
 ## Wireframe
-![](https://github.com/somersbmatthews/dataspeak-frontend/blob/vendor/Project4wireframe.png)
+![](https://github.com/somersbmatthews/dataspeak-frontend/vendor/Project4wireframe.png)
